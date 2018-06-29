@@ -3,3 +3,4 @@
 
 # locally ignore the tmp directory
 tmp/*
+bin/*
